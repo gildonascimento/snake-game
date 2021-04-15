@@ -1,0 +1,10 @@
+body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #000;
+    color:rgb(223, 223, 100);
+    font-family: Tahoma, Geneva, Verdana, sans-serif
